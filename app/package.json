@@ -35,7 +35,7 @@
   "dependencies": {
     "chokidar": "^2.0.4",
     "fuzzaldrin-plus": "^0.5",
-    "inkjs": "^1.10.2",
+    "inkjs": "^1.11.0",
     "lodash": "^4.17.10",
     "mkdirp": "^0.5.1",
     "randomstring": "^1.1.5"
